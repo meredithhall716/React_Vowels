@@ -3,7 +3,6 @@ import './App.css'
 
 function App() {
   const [input, setInput] = useState('')
-  // const [count, setCount] = useState(0)
   
 
   const handleSubmit = event => {
